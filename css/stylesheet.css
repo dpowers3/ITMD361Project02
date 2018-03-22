@@ -1,18 +1,14 @@
 div {
 	font-family: Verdana, Geneva, sans-serif;
-
 }
-
 body {
 	background-color:#b8dbd3;
 	margin:30px;
 	border: 10px solid #68c4af;
-
 }
 h1{
 	margin-left: 10px;
 	text-align:center;
-	
 }
 nav{
 	text-align: center;
@@ -24,17 +20,29 @@ ul{
 	padding-top:20px;
 	border-top: 2px solid black;
 }
-#page1 h3{
+h3{
 	text-align:center;
 }
 p{
 	margin: 0 20px 0 20px;
 }
-#page1 footer{
+footer{
 	margin-top: 50px;
 	margin-bottom:10px;
 }
 #page1 hr{
 	color:black;
-	
+}
+#page2 h3{
+	margin-top:30px;
+	text-align:center;
+}
+#page2 #introP{
+	text-align:center;
+}
+h4{
+	margin-left:10px;
+}
+img{
+	text-align:center;
 }
