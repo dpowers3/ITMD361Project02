@@ -13,6 +13,7 @@ h1{
 nav{
 	text-align: center;
 	padding-bottom:10px;
+	padding-top:10px;
 }
 ul{
 	margin-left:20px;
@@ -36,6 +37,9 @@ p{
 footer{
 	margin-top: 50px;
 	margin-bottom:10px;
+}
+h4{
+	margin-left:10px;
 }
 #page1 hr{
 	color:black;
@@ -65,12 +69,32 @@ footer{
 }
 #page2 #link{
 	margin-top:30px;
-	margin-bottom:10px;
-	
+	margin-bottom:10px;	
 }
-h4{
-	margin-left:10px;
+#page3 #information{
+	margin-bottom:20px;
+	text-align:center;
 }
-
-
+#page3 #iit{
+	border-top: 1px solid black;
+	padding-top:20px;
+}
+#page3 #daley{
+	margin-top:30px;
+	border-top: 1px solid black;
+	padding-top:20px;
+}
+#page3 #metra{
+	border-top: 1px solid black;
+	padding-top:20px;
+}
+#page3 #ups{
+	margin-top:30px;
+	border-top: 1px solid black;
+	padding-top:20px;
+}
+#page3 #skillid{
+	border-top: 1px solid black;
+	padding-top:20px;
+}
 
