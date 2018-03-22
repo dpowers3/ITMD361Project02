@@ -4,9 +4,9 @@ div {
 }
 
 #page1 {
-	background-color:#AFEEEE;
+	background-color:#b8dbd3;
 	margin:30px;
-	border: 10px solid red;
+	border: 10px solid #68c4af;
 
 }
 #page1 h1{
@@ -19,10 +19,25 @@ div {
 	padding-bottom:10px;
 }
 #page1 ul{
-	padding:100px;
-
+	margin-left:20px;
+	margin-right:20px;
+	padding-top:20px;
+	border-top: 2px solid black;
 }
-
+#page1 h3{
+	text-align:center;
+}
+#page1 p{
+	margin: 0 20px 0 20px;
+}
+#page1 footer{
+	margin-top: 50px;
+	margin-bottom:10px;
+}
+#page1 hr{
+	color:black;
+	
+}
 #page2 {
 	
 }
