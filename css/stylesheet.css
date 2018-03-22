@@ -3,22 +3,22 @@ div {
 
 }
 
-#page1 {
+body {
 	background-color:#b8dbd3;
 	margin:30px;
 	border: 10px solid #68c4af;
 
 }
-#page1 h1{
+h1{
 	margin-left: 10px;
 	text-align:center;
 	
 }
-#page1 nav{
+nav{
 	text-align: center;
 	padding-bottom:10px;
 }
-#page1 ul{
+ul{
 	margin-left:20px;
 	margin-right:20px;
 	padding-top:20px;
@@ -27,7 +27,7 @@ div {
 #page1 h3{
 	text-align:center;
 }
-#page1 p{
+p{
 	margin: 0 20px 0 20px;
 }
 #page1 footer{
@@ -36,8 +36,5 @@ div {
 }
 #page1 hr{
 	color:black;
-	
-}
-#page2 {
 	
 }
