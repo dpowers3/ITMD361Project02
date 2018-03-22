@@ -20,6 +20,13 @@ ul{
 	padding-top:20px;
 	border-top: 2px solid black;
 }
+ol{
+	margin-left:20px;
+	margin-right:20px;
+	padding-top:20px;
+	border-top: 2px solid black;
+	
+}
 h3{
 	text-align:center;
 }
@@ -40,9 +47,16 @@ footer{
 #page2 #introP{
 	text-align:center;
 }
+#page2 #linkP{
+	margin-top:30px;
+	margin-bottom:10px;
+}
+#page2 #link{
+	margin-top:30px;
+	margin-bottom:10px;
+	
+}
 h4{
 	margin-left:10px;
 }
-img{
-	text-align:center;
-}
+
