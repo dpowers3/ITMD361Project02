@@ -1,5 +1,6 @@
 div {
 	font-family: Verdana, Geneva, sans-serif;
+	
 }
 body {
 	background-color:#b8dbd3;
@@ -14,6 +15,19 @@ nav{
 	text-align: center;
 	padding-bottom:10px;
 	padding-top:10px;
+}
+.Hobbies {
+	float : right;
+	border: 10px solid #68c4af;
+}
+.TV{
+	float : left;
+	
+	padding-right:130px;
+	border: 10px solid #68c4af;
+}
+#IOT{
+	padding-bottom: 20px;
 }
 ul{
 	margin-left:20px;
@@ -35,6 +49,7 @@ p{
 	margin: 0 20px 0 20px;
 }
 footer{
+	float:left;
 	margin-top: 50px;
 	margin-bottom:10px;
 }
